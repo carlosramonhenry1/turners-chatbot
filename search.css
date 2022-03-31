@@ -1,0 +1,93 @@
+.headsup{
+    display: flex;
+    justify-content: space-between;
+    } 
+
+.contacts {
+    margin-top: 65px;
+     padding-left: 50px; 
+    
+    
+}
+
+.phone {
+    margin-top: 65px;
+    /* padding-right: 80px; */
+}
+
+.findus {
+    margin-top: 65px;
+    padding-right: 50px;
+    
+
+}
+
+.navbar{
+    margin: 40px;
+    margin-left: 30px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:blue;
+    margin-top: 20px;
+  }
+
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: justify;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .topnavyitems{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-top: 40px;
+  }
+
+  .photo-cover1{
+       padding: 20px; 
+       width:130px;
+      /* //height:150px; */ 
+      /* padding-left: 20px; */
+      padding-right: 20px;
+      margin-left: 80px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    background: skyblue;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  /* ================= */
+.question{
+    
+    color: black
+}
+
+.answer{
+    /* border: 2px solid red; */
+    color: black
+}
+
+#textbox{
+    width: 30%;
+    margin-left: 520px;
+}
+.searchbutton{
+    width: 30%;
+    margin-left: 520px;
+}
+/* ================= */
